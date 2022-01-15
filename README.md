@@ -1,3 +1,4 @@
+[WIP]
 Social Media Web Application
 ============
 [![GitHub Stars](https://img.shields.io/github/stars/jordanhoare/digit-drawing-prediction.svg)](https://github.com/jordanhoare/digit-drawing-prediction/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/jordanhoare/digit-drawing-prediction.svg)](https://github.com/jordanhoare/digit-drawing-prediction/issues) [![Current Version](https://img.shields.io/badge/version-0.5.0-green.svg)](https://github.com/jordanhoare/digit-drawing-prediction) 
