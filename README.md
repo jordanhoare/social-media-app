@@ -4,7 +4,7 @@ Social Media Web Application
 [![GitHub Stars](https://img.shields.io/github/stars/jordanhoare/digit-drawing-prediction.svg)](https://github.com/jordanhoare/digit-drawing-prediction/stargazers) [![GitHub Issues](https://img.shields.io/github/issues/jordanhoare/digit-drawing-prediction.svg)](https://github.com/jordanhoare/digit-drawing-prediction/issues) [![Current Version](https://img.shields.io/badge/version-0.5.0-green.svg)](https://github.com/jordanhoare/digit-drawing-prediction) 
 
 ![Alt text](Screenshot.png)
-
+ 
 A MERN stack social media REST API with logins, registery, and a number of CRUD operations (following users, friends list, liking/commenting and a homepage feed).  The api utilises Node.js routers and a MongoDB cloud instance.  The project was constructed largely with reference to https://github.com/safak
 
 
